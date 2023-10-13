@@ -1,4 +1,4 @@
-YouTube: 18.39.40  
+YouTube: 18.40.33  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -7,20 +7,25 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-4.0.1-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.0.apk  
-Patches: ReVanced/revanced-patches-2.193.0.jar  
+Integrations: ReVanced/revanced-integrations-0.119.2.apk  
+Patches: ReVanced/revanced-patches-2.194.0.jar  
 
-### [2.193.0](https://github.com/ReVanced/revanced-patches/compare/v2.192.0...v2.193.0) (2023-10-08)
+### [2.194.0](https://github.com/ReVanced/revanced-patches/compare/v2.193.0...v2.194.0) (2023-10-12)
+
+
 ### Bug Fixes
-* **Boost for Reddit - Spoof client:** Set user-agent for OAuth requests to fix login ([2223951](https://github.com/ReVanced/revanced-patches/commit/2223951fa16011d735ef4c4cda11eba13403f62d))
-* Consolidate patches ([#3098](https://github.com/ReVanced/revanced-patches/issues/3098)) ([02f767d](https://github.com/ReVanced/revanced-patches/commit/02f767df3cd1b2d0155e7360d2b26fa5d1cfcace))
-* **Infinity for Reddit - Spoof client:** Set user-agent for OAuth requests to fix login ([a710f05](https://github.com/ReVanced/revanced-patches/commit/a710f05bb46156e66ca56aa4731e1028f459c414))
-* **Sync for Reddit - Spoof client:** Set user-agent for OAuth requests to fix login ([a48c4a7](https://github.com/ReVanced/revanced-patches/commit/a48c4a7cc1dbb3ecfce2e345240bca8142740b77))
-* **YouTube:** Sort settings alphabetically despite punctuation ([#3097](https://github.com/ReVanced/revanced-patches/issues/3097)) ([46e3c97](https://github.com/ReVanced/revanced-patches/commit/46e3c97d24e282e4d7d444603af4fb475ae03315))
+
+* **YouTube - ReturnYouTubeDislike:** Fix dislikes not showing on Shorts ([#3133](https://github.com/ReVanced/revanced-patches/issues/3133)) ([0e8a286](https://github.com/ReVanced/revanced-patches/commit/0e8a2868e8e4328a6f02fa31537abc5e5ed220eb))
+* **YouTube - Spoof app version:** Recommend clearing the app data after turning off spoofing ([#3134](https://github.com/ReVanced/revanced-patches/issues/3134)) ([166bf5b](https://github.com/ReVanced/revanced-patches/commit/166bf5b1aec5f8868b3895f7e24d2abc9037a7de))
+
+
 ### Features
-* **YouTube - Hide shorts components:** Hide subscribe button when paused separately from subscribe button ([52d07ec](https://github.com/ReVanced/revanced-patches/commit/52d07ecd39b1c37cfbfbfa699ccbef849600d9f8))
-* **YouTube - Return YouTube Dislike:** Support version `18.37.36` ([#3061](https://github.com/ReVanced/revanced-patches/issues/3061)) ([fe11db7](https://github.com/ReVanced/revanced-patches/commit/fe11db70eafb481db87231d3db22eafbaa479871))
-* **YouTube:** Add `Disable fine scrubbing gesture` patch ([6c9baf2](https://github.com/ReVanced/revanced-patches/commit/6c9baf22614b1be4870be684915445f7a138cf31))
-* **YouTube:** Bump compatibility to `18.38.44` ([#3071](https://github.com/ReVanced/revanced-patches/issues/3071)) ([a73868c](https://github.com/ReVanced/revanced-patches/commit/a73868cb270295c871a9f1e4d543f728d6152146))
+
+* **CieID:** Add `bypass root check` patch ([#3011](https://github.com/ReVanced/revanced-patches/issues/3011)) ([20cfa8a](https://github.com/ReVanced/revanced-patches/commit/20cfa8a5cdebc7e81128c820a2aa01415a068320))
+* Do not support reading options from a properties file ([3d1c0c1](https://github.com/ReVanced/revanced-patches/commit/3d1c0c1a958271c358755220b97b9dd92eb81d54))
+* Improve option descriptions and titles ([9f86daa](https://github.com/ReVanced/revanced-patches/commit/9f86daa82271591bcaa9144d300a4810458fdd28))
+
+
+
 
 ---  
