@@ -1,4 +1,4 @@
-YouTube: 18.40.33  
+YouTube: 18.41.34  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -6,26 +6,18 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-4.0.1-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.2.apk  
-Patches: ReVanced/revanced-patches-2.194.0.jar  
+CLI: j-hc/revanced-cli-4.0.2-all.jar  
+Integrations: ReVanced/revanced-integrations-0.120.0.apk  
+Patches: ReVanced/revanced-patches-2.195.0.jar  
 
-### [2.194.0](https://github.com/ReVanced/revanced-patches/compare/v2.193.0...v2.194.0) (2023-10-12)
-
-
+### [2.195.0](https://github.com/ReVanced/revanced-patches/compare/v2.194.0...v2.195.0) (2023-10-20)
 ### Bug Fixes
-
-* **YouTube - ReturnYouTubeDislike:** Fix dislikes not showing on Shorts ([#3133](https://github.com/ReVanced/revanced-patches/issues/3133)) ([0e8a286](https://github.com/ReVanced/revanced-patches/commit/0e8a2868e8e4328a6f02fa31537abc5e5ed220eb))
-* **YouTube - Spoof app version:** Recommend clearing the app data after turning off spoofing ([#3134](https://github.com/ReVanced/revanced-patches/issues/3134)) ([166bf5b](https://github.com/ReVanced/revanced-patches/commit/166bf5b1aec5f8868b3895f7e24d2abc9037a7de))
-
-
+* Indent option description correctly ([d4a9ea1](https://github.com/ReVanced/revanced-patches/commit/d4a9ea1f6c7ab9d25fd60695cce0965c7b5269a4))
+* **Reddit - Sanitize sharing links:** Restore compatibility with newer versions of the app ([1671d8d](https://github.com/ReVanced/revanced-patches/commit/1671d8d826a08273fae5ccffc4a4ebfef9648fe2))
+* **YouTube - Hide layout components:** Hide new channel watermark component ([cbfd569](https://github.com/ReVanced/revanced-patches/commit/cbfd5691d31ed144eac1d23de918ab5a6a905dfa))
 ### Features
-
-* **CieID:** Add `bypass root check` patch ([#3011](https://github.com/ReVanced/revanced-patches/issues/3011)) ([20cfa8a](https://github.com/ReVanced/revanced-patches/commit/20cfa8a5cdebc7e81128c820a2aa01415a068320))
-* Do not support reading options from a properties file ([3d1c0c1](https://github.com/ReVanced/revanced-patches/commit/3d1c0c1a958271c358755220b97b9dd92eb81d54))
-* Improve option descriptions and titles ([9f86daa](https://github.com/ReVanced/revanced-patches/commit/9f86daa82271591bcaa9144d300a4810458fdd28))
-
-
-
+* **YouTube - Theme:** Disable gradient loading screen ([90d5877](https://github.com/ReVanced/revanced-patches/commit/90d5877950095b7abacdca979bc7ad709192eee2))
+* **YouTube:** Add `Announcements` patch ([#3166](https://github.com/ReVanced/revanced-patches/issues/3166)) ([f977983](https://github.com/ReVanced/revanced-patches/commit/f97798391ffc3477f781d43817664d31cfcd209a))
+* **YouTube:** Add `Spoof device dimensions` patch ([c8d409e](https://github.com/ReVanced/revanced-patches/commit/c8d409e1dbda6ac45fef01912ce7afad1022b4b7))
 
 ---  
