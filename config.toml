@@ -9,5 +9,9 @@ build-mindetach-module = true
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
-excluded-patches = "hide-cast-button"
+excluded-patches = "'Hide cast button'"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
 
