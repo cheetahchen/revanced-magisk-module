@@ -6,15 +6,13 @@ YouTube: 18.45.41
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-4.1.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.123.0.apk  
-Patches: ReVanced/revanced-patches-2.200.0.jar  
+Integrations: ReVanced/revanced-integrations-0.124.0.apk  
+Patches: ReVanced/revanced-patches-2.201.0.jar  
 
-### [2.200.0](https://github.com/ReVanced/revanced-patches/compare/v2.199.0...v2.200.0) (2023-11-22)
+### [2.201.0](https://github.com/ReVanced/revanced-patches/compare/v2.200.0...v2.201.0) (2023-11-23)
 ### Bug Fixes
-* **Spotify - Custom theme:** Add more background surfaces coloring options ([#3285](https://github.com/ReVanced/revanced-patches/issues/3285)) ([869ec26](https://github.com/ReVanced/revanced-patches/commit/869ec26966f7750c45355ac0acc18b81a2abce87))
-* **YouTube - Remove tracking query parameter:** Sanitize shared URLs in remaining places ([2442902](https://github.com/ReVanced/revanced-patches/commit/2442902dacc25f2c932a6689e9788e5a02fdff6b))
+* **YouTube - Enable tablet layout:** Respect the original device layout ([b2c5bab](https://github.com/ReVanced/revanced-patches/commit/b2c5babf3fd9ad73daa06e03f4830a9dd7199d0c))
 ### Features
-* **Twitch:** Constrain patches to versions known to work ([65b55a5](https://github.com/ReVanced/revanced-patches/commit/65b55a5189df52dc7e99b7e9c68b908fbca92434))
-* **Twitch:** Support version `16.9.1` ([c70e4a6](https://github.com/ReVanced/revanced-patches/commit/c70e4a66bd65b42db88dcabd412ec985226bd1e7))
-
+* **YouTube - Hide ads:** Hide shopping links in video description ([0c875a1](https://github.com/ReVanced/revanced-patches/commit/0c875a106308ae9747ae998d75b84db1c336762b))
+* **YouTube - Hide layout components:** Hide 
 ---  
