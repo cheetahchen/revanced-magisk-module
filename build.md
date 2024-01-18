@@ -1,5 +1,5 @@
-Music: 6.34.51  
-YouTube: 19.02.34  
+Music: 6.35.50  
+YouTube: 19.02.39  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
