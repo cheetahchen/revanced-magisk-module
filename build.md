@@ -1,17 +1,17 @@
 Music: 6.36.54  
-YouTube: 19.03.35  
+YouTube: 19.03.36  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.2.0.apk  
-Patches: ReVanced/revanced-patches-4.0.1.jar  
+Integrations: ReVanced/revanced-integrations-1.2.1.apk  
+Patches: ReVanced/revanced-patches-4.0.2.jar  
 
-#### [4.0.1](https://github.com/ReVanced/revanced-patches/compare/v4.0.0...v4.0.1) (2024-01-27)
+#### [4.0.2](https://github.com/ReVanced/revanced-patches/compare/v4.0.1...v4.0.2) (2024-01-28)
 ### Bug Fixes
-* Indent patch option description correctly ([bd86ef6](https://github.com/ReVanced/revanced-patches/commit/bd86ef6fc2344fa049077e9aa4bcd5d7ffa4c7f9))
-* Only set Android key if not null to prevent build errors ([1181b0b](https://github.com/ReVanced/revanced-patches/commit/1181b0bca24c524c376f7ea26ae02ee771645e6b))
+* **Twitch:** Correct patch resources to fix build ([1b63898](https://github.com/ReVanced/revanced-patches/commit/1b63898413b24693b0b737df29adcf9142963dfa))
+* **YouTube:** Do not crash on startup for root installs ([#2655](https://github.com/ReVanced/revanced-patches/issues/2655)) ([02abace](https://github.com/ReVanced/revanced-patches/commit/02abace127c9ef906c06ded9135cbba2871bd1e6))
 
 ---  
